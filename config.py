@@ -1,0 +1,6 @@
+customhost = "employee-db.ci5tomydw36w.ap-south-1.rds.amazonaws.com"
+customuser = "suventure"
+custompass = "suventure2021"
+customdb = "employee-db"
+custombucket = "adminemployee"
+customregion = "ap-south-1"
